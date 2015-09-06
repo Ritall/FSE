@@ -1,0 +1,58 @@
+* {padding:0px; margin:0px;  }
+body{font-family: Arial, Helvetica, sans-serif; font-size:15px;}
+p{background:#ddd;}
+#all {
+	margin-left:auto;
+	margin-right:auto;
+	width:400px;
+	height:600px;
+	border:5px solid #ddd;
+	border-radius:5px; 
+	}
+#tool {
+	height:30px;
+    background:#1E90FF; 
+	border-radius:5px; 
+}
+#icon{
+	float:right;
+	padding:2px;
+}
+
+#content 
+{ 
+    margin:20px;
+	height:400px;
+	border-radius:5px; 
+}
+#tip { 
+    margin:20px;
+	color: #1E90FF;
+	font-weight: 900;
+}
+#name{
+	
+	border-radius:5px; 	
+	height:30px;
+	
+    margin-top:5px;
+	margin-bottom:5px;
+	
+	background:#F5F5F5; 
+}
+#status { 
+	 margin:20px;
+	 color:#1E90FF;
+	 font-weight: 900;
+}
+#input { 
+
+    border-radius:5px;
+	height:30px;
+	
+    margin-top:5px;
+	margin-bottom:5px;
+	
+	background:#F5F5F5; 
+}
+
